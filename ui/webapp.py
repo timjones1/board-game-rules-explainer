@@ -1,7 +1,4 @@
-import os
-import sys
 import logging
-from pathlib import Path
 from json import JSONDecodeError
 
 import pandas as pd
@@ -319,11 +316,7 @@ if __name__ == "__main__":
         # Sidebar
         st.sidebar.header("Options")
 
-        selected_game = st.sidebar.selectbox(
-        "Choose Game",
-        ("monopoly", "gloomhaven"),
-        index=0
-        )
+        selected_game = st.sidebar.selectbox("Choose Game", ("monopoly", "gloomhaven"), index=0)
 
         top_k_reader_rulebook = st.sidebar.slider(
             "Max. number of answers from rulebook",
