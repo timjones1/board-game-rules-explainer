@@ -17,5 +17,3 @@ The final deployment was on AWS EC2, with 3 docker containers holding the Elasti
 ![splash](https://github.com/rafaljanwojcik/board-game-rules-explainer/blob/update-readme/deployment.png)
 
 
-![splash](https://github.com/rafaljanwojcik/board-game-rules-explainer/blob/update-readme/splash_image.png)
-
