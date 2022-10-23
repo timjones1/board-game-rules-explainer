@@ -8,6 +8,6 @@ The aim of this project was to build and deploy a Question Answering system to r
 
 The project makes extensive use of the Haystack open source library and this repository was forked from the main [Haystack repository](https://github.com/deepset-ai/haystack) which is awesome.
 
-
+Board Game Rules Explainer - FSDL 2022 - [Watch Video](https://www.loom.com/share/07ea2447b41945fa8ec1c1e068ac6245)
 
 our project presentation slides are available [here:](https://docs.google.com/presentation/d/1CkBQa9E5Id5zUBW_zXxb4WnwfLJhqKw0aU0tbRD4txQ/edit?usp=sharing)
