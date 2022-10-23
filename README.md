@@ -12,7 +12,7 @@ Board Game Rules Explainer - FSDL 2022 - [Watch Video](https://www.loom.com/shar
 
 Our project presentation slides are available [here](https://docs.google.com/presentation/d/1CkBQa9E5Id5zUBW_zXxb4WnwfLJhqKw0aU0tbRD4txQ/edit?usp=sharing)
 
-The final deployment was on AWS EC2, with 3 docker containers holding the Elasticsearch document database, Haystack REST API and Streamlit front end respectively.
+The final deployment was on AWS EC2, with 3 docker containers holding the Elasticsearch document database, Haystack REST API and Streamlit front end respectively, Weights and Biases was used to store and report on the results of model evaluation.
 
 ![splash](https://github.com/rafaljanwojcik/board-game-rules-explainer/blob/update-readme/deployment-diagram.png)
 
