@@ -8,13 +8,11 @@ The aim of this project was to build and deploy a Question Answering system to r
 
 The project makes extensive use of the Haystack open source library and this repository was forked from the main [Haystack repository](https://github.com/deepset-ai/haystack) which is awesome.
 
-Board Game Rules Explainer - FSDL 2022 - [Watch Video](https://www.loom.com/share/07ea2447b41945fa8ec1c1e068ac6245)
+Board Game Rules Explainer - Showcased on FSDL 2022 website - [Watch Video](https://fullstackdeeplearning.com/course/2022/project-showcase/#board-game-rules-explainer)
 
-Live Demo is [available here](http://board-game-rules-explainer.com) accessible via Ngrok.
+Live Demo is available to try [here](http://board-game-rules-explainer.com) accessible via Ngrok.
 
 Our project presentation slides are available [here](https://docs.google.com/presentation/d/1CkBQa9E5Id5zUBW_zXxb4WnwfLJhqKw0aU0tbRD4txQ/edit?usp=sharing)
-
-Our Project was showcased on the FSDL Website [here](https://fullstackdeeplearning.com/course/2022/project-showcase/#board-game-rules-explainer)
 
 The final deployment was on AWS EC2, with 3 docker containers holding the Elasticsearch document database, Haystack REST API and Streamlit front end respectively, Weights and Biases was used to store and report on the results of model evaluation.
 
