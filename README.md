@@ -14,6 +14,8 @@ Live Demo is [available here](http://board-game-rules-explainer.com) accessible 
 
 Our project presentation slides are available [here](https://docs.google.com/presentation/d/1CkBQa9E5Id5zUBW_zXxb4WnwfLJhqKw0aU0tbRD4txQ/edit?usp=sharing)
 
+Our Project was showcased on the FSDL Website [here](https://fullstackdeeplearning.com/course/2022/project-showcase/#board-game-rules-explainer)
+
 The final deployment was on AWS EC2, with 3 docker containers holding the Elasticsearch document database, Haystack REST API and Streamlit front end respectively, Weights and Biases was used to store and report on the results of model evaluation.
 
 ![splash](https://github.com/rafaljanwojcik/board-game-rules-explainer/blob/update-readme/deployment-diagram.png)
